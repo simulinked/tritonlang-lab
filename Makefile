@@ -1,6 +1,6 @@
 .PHONY: help build push dev test test-env
 
-IMAGE:=dtunai/tritonlang-lab
+IMAGE:=simulinked/tritonlang-lab
 TAG?=latest
 VERSION=1.1.1
 
